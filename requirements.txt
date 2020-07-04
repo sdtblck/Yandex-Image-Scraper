@@ -4,3 +4,5 @@ pandas
 requests
 webdriver_manager
 pyimgur
+glob
+os
