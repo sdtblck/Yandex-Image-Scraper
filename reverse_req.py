@@ -4,7 +4,7 @@ import os
 
 path = '/Users/sidblack/Desktop/index7.png'
 
-def upload_image(image_path='', client_id="53b24554cdd7b0d"):
+def upload_image(image_path='', client_id=""):
     """
     Uploads an image to imgur.
 
