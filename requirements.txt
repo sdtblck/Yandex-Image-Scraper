@@ -1,0 +1,6 @@
+selenium
+numpy
+pandas
+requests
+webdriver_manager
+pyimgur
